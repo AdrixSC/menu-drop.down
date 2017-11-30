@@ -1,6 +1,8 @@
-button {
+.btn {
     display: inline-block;
     padding: 20px;
+    font-family: sans-serif;
+    color: white;
 }
 
 div {
@@ -9,17 +11,25 @@ div {
 }
 
 #b-animals {
-    background: green;
+    background: rgb(204, 20, 53);
 }
 
 #b-names {
-    background: yellow;
+    background: rgb(10, 155, 145);
 }
 
 #b-things {
-    background: pink;
+    background: rgb(204, 20, 53);
 }
 
 #b-movies {
-    background: blue;
+    background: rgb(10, 155, 145);
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
 }
