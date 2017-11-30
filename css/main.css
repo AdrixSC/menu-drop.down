@@ -1,0 +1,25 @@
+button {
+    display: inline-block;
+    padding: 20px;
+}
+
+div {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#b-animals {
+    background: green;
+}
+
+#b-names {
+    background: yellow;
+}
+
+#b-things {
+    background: pink;
+}
+
+#b-movies {
+    background: blue;
+}
